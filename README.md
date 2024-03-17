@@ -38,7 +38,8 @@ sv_authMinTrust 4
 ```
 
 
-Vous avez la permission de copier mon texte à condition de donner crédit de mon github.
+Discord: discord.gg/royalC2
+T.me/royal_faq
 
 
 © Royal Projets 2023/2024
