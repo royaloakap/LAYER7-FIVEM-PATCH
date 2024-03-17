@@ -41,4 +41,4 @@ sv_authMinTrust 4
 Vous avez la permission de copier mon texte à condition de donner crédit de mon github.
 
 
-© Clashplayer 2021 - 2022
+© Royal Projets 2023/2024
